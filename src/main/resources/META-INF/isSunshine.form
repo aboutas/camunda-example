@@ -1,0 +1,30 @@
+{
+  "components": [
+    {
+      "label": "Is sunshine today?",
+      "type": "checkbox",
+      "layout": {
+        "row": "Row_0jakphv",
+        "columns": null
+      },
+      "id": "Field_1tzi2q0",
+      "key": "sunshine",
+      "description": "Click on checkbox for yes",
+      "validate": {
+        "required": false
+      },
+      "properties": {},
+      "disabled": false,
+      "readonly": false
+    }
+  ],
+  "type": "default",
+  "id": "Form_0ez63hs",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.15.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}
